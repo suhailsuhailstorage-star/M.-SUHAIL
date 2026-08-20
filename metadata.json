@@ -1,0 +1,6 @@
+{
+  "name": "Mysore Cauvery Emporium",
+  "description": "Catalog and inventory app for Mysore Cauvery Silks & Handicraft Emporium featuring sarees, handicrafts, sandal products, and wood articles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
